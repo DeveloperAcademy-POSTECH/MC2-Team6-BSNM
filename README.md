@@ -19,7 +19,7 @@
 ![img5](https://github.com/DeveloperAcademy-POSTECH/MC2-Team6-BSNM/blob/main/REQ_Reedme_Img/REQ_presentation/REQ_presentation.005.jpeg)
 ![img6](https://github.com/DeveloperAcademy-POSTECH/MC2-Team6-BSNM/blob/main/REQ_Reedme_Img/REQ_presentation/REQ_presentation.006.jpeg)
 ![img7](https://github.com/DeveloperAcademy-POSTECH/MC2-Team6-BSNM/blob/main/REQ_Reedme_Img/REQ_presentation/REQ_presentation.007.jpeg)
-![img8]https://github.com/DeveloperAcademy-POSTECH/MC2-Team6-BSNM/blob/main/REQ_Reedme_Img/REQ_presentation/REQ_presentation.008.jpeg)
+![img8](https://github.com/DeveloperAcademy-POSTECH/MC2-Team6-BSNM/blob/main/REQ_Reedme_Img/REQ_presentation/REQ_presentation.008.jpeg)
 ![img9](https://github.com/DeveloperAcademy-POSTECH/MC2-Team6-BSNM/blob/main/REQ_Reedme_Img/REQ_presentation/REQ_presentation.009.jpeg)
 ![img10](https://github.com/DeveloperAcademy-POSTECH/MC2-Team6-BSNM/blob/main/REQ_Reedme_Img/REQ_presentation/REQ_presentation.010.jpeg)
 ![img11](https://github.com/DeveloperAcademy-POSTECH/MC2-Team6-BSNM/blob/main/REQ_Reedme_Img/REQ_presentation/REQ_presentation.011.jpeg)
